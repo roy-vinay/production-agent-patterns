@@ -1,5 +1,7 @@
 # Production Agent Patterns
 
+[![evals](https://github.com/roy-vinay/production-agent-patterns/actions/workflows/evals.yml/badge.svg)](https://github.com/roy-vinay/production-agent-patterns/actions/workflows/evals.yml)
+
 A small, runnable customer support agent that implements the production patterns from the article
 **Building AI Agents That Survive Production**
 ([Medium](https://vinaysays.medium.com/building-ai-agents-that-survive-production-5bbb2257ba0a) ·
