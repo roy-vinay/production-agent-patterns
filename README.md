@@ -1,6 +1,6 @@
 # Production Agent Patterns
 
-> **This project now lives in [applied-ai-agents](https://github.com/roy-vinay/applied-ai-agents/tree/main/production-patterns/guarded-support-agent)**, alongside my other agents. This repo stays up for its live demo and history.
+> **This project now lives in [applied-ai-agents](https://github.com/roy-vinay/applied-ai-agents/tree/main/production-patterns/guarded-support-agent)**, alongside my other agents. This repo stays up so existing links keep working.
 
 [![evals](https://github.com/roy-vinay/production-agent-patterns/actions/workflows/evals.yml/badge.svg)](https://github.com/roy-vinay/production-agent-patterns/actions/workflows/evals.yml)
 
